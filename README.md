@@ -28,7 +28,14 @@
 
 
 
+
+
+
+
+
+
 ## Hard Skills
+
 -  TIME MANAGEMENT
   
 -  RESPONSIBILITY
@@ -38,6 +45,11 @@
 -  PROBLEM-SOLVING
   
 -  ADAPTABILITY
+
+
+
+
+
 
 
 
