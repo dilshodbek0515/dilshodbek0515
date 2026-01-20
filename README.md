@@ -32,9 +32,11 @@
 
 
 ## Skills
-- 👨‍💻 JAVA SCRIPT, TYPE SCRIPT, REACT JS, NEXT JS
-- 👁️ HTML, CSS, SCSS, TAILWIND, BOOTSTRAP
-- 💽 GIT HUB, MUI, REACT QUERY, REDUX, CONTEXT API
+- 👨‍💻 JAVA SCRIPT,   TYPE SCRIPT,   REACT JS,   NEXT JS
+  
+- 👁️ HTML,   CSS,   SCSS,   TAILWIND,   BOOTSTRAP
+  
+- 💽 GIT HUB,   MUI,   REACT QUERY,   REDUX,   CONTEXT API
 
 ## Contact
 - [marton.lederer.hu](https://marton.lederer.hu)
