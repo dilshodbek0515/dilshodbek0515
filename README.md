@@ -39,6 +39,5 @@
 - 💽 GIT HUB,   MUI,   REACT QUERY,   REDUX,   CONTEXT API
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](./) on Discord
+- [@dilshodbek0515](https://t.me/dilshodbek0515) on Telegram
+- [@dilshodbek0515](+998975790515) on Phone number
