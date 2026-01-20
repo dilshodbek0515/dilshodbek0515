@@ -28,16 +28,22 @@
 
 
 
+## Hard Skills
+-  TIME MANAGEMENT
+  
+-  RESPONSIBILITY
+  
+-  LEADERSHIP SKILLS
+  
+-  PROBLEM-SOLVING
+  
+-  ADAPTABILITY
 
 
 
-## Skills
+## Soft Skills
 - 👨‍💻 JAVA SCRIPT,   TYPE SCRIPT,   REACT JS,   NEXT JS
   
 - 👁️ HTML,   CSS,   SCSS,   TAILWIND,   BOOTSTRAP
   
 - 💽 GIT HUB,   MUI,   REACT QUERY,   REDUX,   CONTEXT API
-
-## Contact
-- [@dilshodbek0515](https://t.me/dilshodbek0515) on Telegram
-- [@dilshodbek0515](+998975790515) on Phone number
