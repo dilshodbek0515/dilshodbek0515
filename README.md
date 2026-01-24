@@ -64,3 +64,6 @@
  👁️ HTML,   CSS,   SCSS,   TAILWIND,   BOOTSTRAP
   
  💽 GIT HUB,   MUI,   REACT QUERY,   REDUX,   CONTEXT API
+
+ 👨‍💻 React Native
+ 
