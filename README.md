@@ -65,5 +65,5 @@
   
  💽 GIT HUB,   MUI,   REACT QUERY,   REDUX,   CONTEXT API
 
- 👨‍💻 React Native
+ 👨‍💻 React Native 🖥📲
  
